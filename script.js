@@ -5,8 +5,8 @@ const vega_pro1 = {
     "Description": "<p>investment and management asset.</p>",
     "Platform": "<i>API netcore 3.1</i> <br><i>MVC5, Entity Framework</i> <br><i>Console application (net5)</i> <i>Window service c#</i><br><i>Database is SQL server</i>",
     "Tool": "Visual studio 2019 for backend, Sql management tool",
-    "TeamSize": "Include 3 developers and 3 QAs",
-    "Position": "Developer, from Dec 2017 to Jun 2018"
+    "TeamSize": "Include 7 developers, 1 QC and 1 BA",
+    "Position": "Developer, techlead"
 }
 
 // For An Binh Bank
