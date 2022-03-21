@@ -84,7 +84,7 @@ const goline_bkav = {
 
 function bodyOnload() {
     let now = new Date();
-    document.getElementById('age').innerHTML = now.getFullYear() - 1988;
+    document.getElementById('age').innerHTML = now.getFullYear() - 1987;
 
     // Load data for Med Aid
     let projectsAtMedAid = [medaid_pro3, medaid_pro2, medaid_pro1];
