@@ -1,1 +1,1 @@
-<body><b>minh</b></body>
+<body><b style ='color:red'>minh</b></body>
