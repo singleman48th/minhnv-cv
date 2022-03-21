@@ -71,7 +71,7 @@ function bodyOnload() {
     document.getElementById('age').innerHTML = now.getFullYear() - 1987;
 
     // Load data for Vega
-    let projectsAtVega = [medaid_pro1];
+    let projectsAtVega = [vega_pro1];
     const projectSample = document.getElementById('project_sample').outerHTML;
     const fn = obj => {
         let ret = projectSample;
