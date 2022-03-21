@@ -1,1 +1,1 @@
-<body><b style ='color:red'>minh</b></body>
+Nguyen Van Minh's CV.Net
