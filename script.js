@@ -2,9 +2,9 @@
 
 const vega_pro1 = {
     "Project": "TOPI",
-    "Description": "<p>investment and management asset.</p>",
-    "Platform": "<i>API netcore 3.1</i> <br><i>MVC5, Entity Framework</i> <br><i>Console application (net5)</i> <i>Window service c#</i><br><i>Database is SQL server</i>",
-    "Tool": "Visual studio 2019 for backend, Sql management tool",
+    "Description": "<p>investment and management assets.</p>",
+    "Platform": "<i>API netcore 3.1, MVC5, entity framework, console application (net5), window service c#, SQL server</i>",
+    "Tool": "Visual studio 2019, Sql management tool",
     "TeamSize": "Include 7 developers, 1 QC and 1 BA",
     "Position": "Developer, techlead"
 }
