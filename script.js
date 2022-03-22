@@ -2,7 +2,7 @@
 
 const vega_pro1 = {
     "Project": "TOPI",
-    "Description": "<p>investment and management assets.</p>",
+    "Description": "<p>investment and management assets include saving money, buying and selling gold, stocks and fund certificate. </p>",
     "Platform": "<i>API netcore 3.1, MVC5, entity framework, console application (net5), window service c#, SQL server</i>",
     "Tool": "Visual studio 2019, Sql management tool",
     "TeamSize": "Include 7 developers, 1 QC and 1 BA",
