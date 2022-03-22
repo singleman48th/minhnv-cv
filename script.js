@@ -49,14 +49,21 @@ const fis_pro1 = {
 }
 // For BKAV
 const bkav_pro1 = {
-    "Project": "OpenGTS", "gametrieuphu.vn" ,
-    "Description": "<p>Overall management of human resources, with the highest customization ability, to meet the scale from Groups, Corporations to small and medium enterprises.</p>",
-    "Platform": "<i>ASP.NET webform c#, java servlet</i><br><i>SQL server, My SQL</i>",
-    "Tool": "Visual Studio 2005, Sql management tool, navicat, eclipse",
-    "TeamSize": "Include 6 developers",
+    "Project": "OpenGTS" ,
+    "Description": "<p> Tracking system for your fleet of vehicles. It supports OpenLayers and other map providers, detail/summary Reporting, and various GPS tracking devices.</p>",
+    "Platform": "<i>java servlet</i><br><i> My SQL</i>",
+    "Tool": "Navicat, eclipse",
+    "TeamSize": "Include 5 developers",
     "Position": "Developer, write document design analysis and code"
 }
-
+const bkav_pro2 = {
+    "Project": "gametrieuphu.vn" ,
+    "Description": "<p> Website for playing games, watching movies</p>",
+    "Platform": "<i>ASP.NET webform c#</i><br><i>SQL server</i>",
+    "Tool": "Visual Studio 2005, Sql management tool",
+    "TeamSize": "Include 1 developer",
+    "Position": "Developer, write document design analysis and code"
+}
 function bodyOnload() {
     let now = new Date();
     document.getElementById('age').innerHTML = now.getFullYear() - 1987;
@@ -101,7 +108,9 @@ function bodyOnload() {
     document.getElementById('projects_fis').innerHTML = ret;
 
     // Load data for BKAV
-    document.getElementById('projects_bkav').innerHTML = fn(goline_bkav);
+      let projectsAtBKAV = [bkav_pro1,bkav_pro2];
+    projectsAtBKAV.forEach(x => ret += fn(x));
+    document.getElementById('projects_bkav').innerHTML = ret;
 
     setTimeout(() => {
         const loadImgs = document.getElementsByClassName('load-img-async');
