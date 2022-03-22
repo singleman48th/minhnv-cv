@@ -101,7 +101,7 @@ function bodyOnload() {
     projectsAtFsoft.forEach(x => ret += fn(x));
     document.getElementById('projects_fsoft').innerHTML = ret;
     
-      // Load data for Fsoft
+      // Load data for Fis
     ret = '';
     let projectsAtFis = [fis_pro1];
     projectsAtFis.forEach(x => ret += fn(x));
