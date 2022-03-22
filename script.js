@@ -48,13 +48,13 @@ const fis_pro1 = {
     "Position": "Developer, from Mar 2012 to Feb 2015"
 }
 // For BKAV
-const goline_bkav = {
-    "Project": "Human Resource Management System",
+const bkav_pro1 = {
+    "Project": "OpenGTS", "gametrieuphu.vn" ,
     "Description": "<p>Overall management of human resources, with the highest customization ability, to meet the scale from Groups, Corporations to small and medium enterprises.</p>",
-    "Platform": "<i>ASP.NET MVC c#</i><br><i>Database is SQL server</i>",
-    "Tool": "Visual Studio 2010, Sql management tool, Microsoft word, UML tool Rational Rose",
+    "Platform": "<i>ASP.NET webform c#, java servlet</i><br><i>SQL server, My SQL</i>",
+    "Tool": "Visual Studio 2005, Sql management tool, navicat, eclipse",
     "TeamSize": "Include 6 developers",
-    "Position": "Developer, write document design analysis and code from Mar 2011 to Feb 2012"
+    "Position": "Developer, write document design analysis and code"
 }
 
 function bodyOnload() {
