@@ -22,12 +22,12 @@ const cmc_pro1 = {
 
 
 const daiviet_pro1 = {
-    "Project": "Dolphin Back office",
-    "Description": "<p>Desktop app to support employee of stock company resolve following business: order securities, margin, advance, mortgage...</p>",
-    "Platform": "<i>Frontend is Winform c#, Crystal Report</i><br><i>Backend is web service ASP.NET c#, ADO.NET</i><br><i>Database is SQL server</i>",
+    "Project": "Naijauto",
+    "Description": "<p>Auto Portal to Buy and Sell Cars Online in Nigeria</p>",
+    "Platform": "<i>ASP.NET MVC 4.0</i><br><i>window service c#, ADO.NET</i><br><i>PostgreSQL</i><br><i>Redis cache, elasticsearch</i>",
     "Tool": "Visual studio 2010, Sql management tool",
-    "TeamSize": "Include 3 developers and 3 QAs",
-    "Position": "Developer, from Mar 2012 to Feb 2015"
+    "TeamSize": "Include 5 developers",
+    "Position": "Developer"
 }
 
 const fsoft_pro1 = {
