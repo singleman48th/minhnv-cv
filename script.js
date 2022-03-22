@@ -14,10 +14,10 @@ const vega_pro1 = {
 const cmc_pro1 = {
     "Project": "HISF",
     "Description": "<p>Outsource for Korea custommer. Mangagement report system for hospital</p>",
-    "Platform": "<i>Web form ASP.NET c#, ADO.NET</i><br><i>Database is SQL Oracle 12c</i>",
-    "Tool": "Visual studio 2010, Toad",
-    "TeamSize": "Include 2 developers",
-    "Position": "Developer, from Dec 2015 to Nov 2017"
+    "Platform": "<i>Winform c#, entities framework</i><br><i>Database is SQL Oracle 12c</i>",
+    "Tool": "Visual studio 2017",
+    "TeamSize": "Include 4 developers, 1 comtor",
+    "Position": "Developer"
 }
 
 
