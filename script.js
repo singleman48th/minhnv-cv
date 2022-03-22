@@ -12,8 +12,8 @@ const vega_pro1 = {
 
 
 const cmc_pro1 = {
-    "Project": "Key Performance Indicator (KPI)",
-    "Description": "<p>Import data from core software when start day, calculate KPI for credit employee. Support manager build bonus staff policy. Export report to excel, html and auto send report daily to CEO.</p>",
+    "Project": "HISF",
+    "Description": "<p>Outsource for Korea custommer. Mangagement report system for hospital</p>",
     "Platform": "<i>Web form ASP.NET c#, ADO.NET</i><br><i>Database is SQL Oracle 12c</i>",
     "Tool": "Visual studio 2010, Toad",
     "TeamSize": "Include 2 developers",
