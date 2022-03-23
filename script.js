@@ -31,12 +31,21 @@ const daiviet_pro1 = {
 }
 
 const fsoft_pro1 = {
-    "Project": "Dolphin Back office",
-    "Description": "<p>Desktop app to support employee of stock company resolve following business: order securities, margin, advance, mortgage...</p>",
-    "Platform": "<i>Frontend is Winform c#, Crystal Report</i><br><i>Backend is web service ASP.NET c#, ADO.NET</i><br><i>Database is SQL server</i>",
+    "Project": "Monticello",
+    "Description": "<p> migration 400.000 lines of code from VB6 to C#.net winform for America custommer</p>",
+    "Platform": "<i> Visual basic, visual studio 2012</i><br><i>Database is Microsoft Access</i>",
     "Tool": "Visual studio 2010, Sql management tool",
-    "TeamSize": "Include 3 developers and 3 QAs",
-    "Position": "Developer, from Mar 2012 to Feb 2015"
+    "TeamSize": "Include over 10 developers and 3 QCs",
+    "Position": "Developer, techlead"
+}
+
+const fsoft_pro2 = {
+    "Project": "SiteCore",
+    "Description": "<p> migration 400.000 lines of code from VB6 to C#.net winform for America custommer</p>",
+    "Platform": "<i> Visual basic, visual studio 2012</i><br><i>Database is Microsoft Access</i>",
+    "Tool": "Visual studio 2010, Sql management tool",
+    "TeamSize": "Include over 10 developers and 3 QCs",
+    "Position": "Developer, techlead"
 }
 
 const fis_pro1 = {
